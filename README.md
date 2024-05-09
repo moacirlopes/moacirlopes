@@ -4,7 +4,6 @@
 
 ![Moacir GitHub stats](https://github-readme-stats.vercel.app/api?username=moacirlopes&show_icons=true&theme=tokyonight)
 
-  📚Estudande de Análise e Desenvolvimento de Sistemas!
-  
-  ⭐ Futuro Programador!
+  📚Desenvolvedor Full Stack PHP e JAVA
+
 
